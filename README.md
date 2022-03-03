@@ -1,8 +1,8 @@
 ### Here is what I'm working on! 👋
 
-- 🔭 I’m currently working on learning Data Analysses
-- 🌱 I’m currently studying Google Data Analytics Certificate
-- 🤔 I’m looking for help with getting a job in data analytics
+- 🔭 I’m currently working as a Data Analyst
+- 🌱 I’m currently studying Python
+- 🤔 
 - 💬 Ask me about anything
 - 📫 How to reach me: tiagocasa@gmail.com
 - 😄 Pronouns: He/Him
