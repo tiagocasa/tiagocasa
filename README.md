@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Data Analyst
 - 🌱 I’m currently studying Python
-- 🤔 
+- 🤔 My currently hobby is game development
 - 💬 Ask me about anything
 - 📫 How to reach me: tiagocasa@gmail.com
 - 😄 Pronouns: He/Him
