@@ -7,7 +7,6 @@
 - 📫 How to reach me: tiagocasa@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ I have two games published on Google Play Games:
-- 
-          - Clicker Village: https://play.google.com/store/apps/details?id=com.RollingHouseStudo.ClickerVillage
-          - Endless Escape: https://play.google.com/store/apps/details?id=com.BigHouseStudio.EndlessEscape
+- Clicker Village: https://play.google.com/store/apps/details?id=com.RollingHouseStudo.ClickerVillage
+- Endless Escape: https://play.google.com/store/apps/details?id=com.BigHouseStudio.EndlessEscape
 -->
