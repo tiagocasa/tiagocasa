@@ -6,5 +6,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: tiagocasa@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm trophy hunter on Playstation
+- ⚡ I have two games published on Google Play Games:
+          - Clicker Village: https://play.google.com/store/apps/details?id=com.RollingHouseStudo.ClickerVillage
+          - Endless Escape: https://play.google.com/store/apps/details?id=com.BigHouseStudio.EndlessEscape
 -->
