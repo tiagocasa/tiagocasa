@@ -5,7 +5,6 @@
 - 🤔 My currently hobby is game development
 - 💬 Ask me about anything
 - 📫 How to reach me: tiagocasa@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ I have two games published on Google Play Games:
 
 - Clicker Village: https://play.google.com/store/apps/details?id=com.RollingHouseStudo.ClickerVillage
