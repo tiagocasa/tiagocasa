@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working as a Data Analyst
-- 🌱 I’m currently studying C#, Java and Flutter
+- 🌱 I’m currently studying Flutter and PySpark
 - 🤔 My currently hobby is game development
 - 💬 Ask me about anything
 - 📫 How to reach me: tiagocasa@gmail.com
